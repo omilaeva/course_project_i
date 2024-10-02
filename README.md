@@ -65,4 +65,6 @@ This command runs the tests and then removes any contents from the database of y
 ```
 The tick mark ✓ before each test indicates that the test passed.
 
+## Web app on Render.com
 
+The web application is up and running on [https://course-project-i-qfb3.onrender.com/](https://course-project-i-qfb3.onrender.com/)
