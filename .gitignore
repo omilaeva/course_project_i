@@ -1,0 +1,5 @@
+# ignore all .env files
+*.env
+
+# ignore deno cache directory
+app-cache/
